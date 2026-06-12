@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerName,Segment,Region,Product,Category,Quantity,UnitPrice,UnitCost,Revenue,Cost,Profit,Status
+ORD0001,2024-12-14,Olivia Brown,Small Business,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0002,2024-08-02,Karen Page,Small Business,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Cancelled
+ORD0003,2024-05-29,Eve Wilson,Corporate,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Pending
+ORD0004,2024-07-10,Leo Garcia,Consumer,North,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Pending
+ORD0005,2024-08-23,Isla Fisher,Consumer,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0006,2024-07-06,Olivia Brown,Corporate,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0007,2024-11-15,Isla Fisher,Small Business,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0008,2024-11-24,Grace Hopper,Corporate,West,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0009,2024-09-21,Jack Ryan,Consumer,South,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0010,2024-09-20,Olivia Brown,Small Business,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0011,2024-12-25,Diana Prince,Corporate,South,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0012,2024-07-09,Bob Jones,Corporate,West,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0013,2024-09-26,Olivia Brown,Small Business,West,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Pending
+ORD0014,2024-07-26,Maria Davis,Corporate,East,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Cancelled
+ORD0015,2024-08-04,Leo Garcia,Consumer,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Cancelled
+ORD0016,2024-11-22,Isla Fisher,Consumer,West,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0017,2024-06-11,Charlie Brown,Consumer,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Cancelled
+ORD0018,2024-02-10,Leo Garcia,Small Business,North,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0019,2024-02-17,Grace Hopper,Small Business,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0020,2024-12-25,Frank Castle,Small Business,East,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0021,2024-05-10,Alice Smith,Consumer,South,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0022,2024-02-11,Leo Garcia,Consumer,East,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0023,2024-04-05,Diana Prince,Corporate,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Cancelled
+ORD0024,2024-06-08,Grace Hopper,Small Business,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Pending
+ORD0025,2024-02-14,Noah Wilson,Consumer,North,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0026,2024-05-07,Jack Ryan,Small Business,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0027,2024-10-09,Noah Wilson,Consumer,West,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Cancelled
+ORD0028,2024-12-24,Frank Castle,Small Business,North,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Cancelled
+ORD0029,2024-08-21,Leo Garcia,Small Business,East,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0030,2024-11-13,Alice Smith,Corporate,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Pending
+ORD0031,2024-04-22,Eve Wilson,Consumer,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0032,2024-05-09,Leo Garcia,Corporate,East,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Cancelled
+ORD0033,2024-05-05,Bob Jones,Consumer,West,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0034,2024-07-21,Henry Ford,Small Business,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Cancelled
+ORD0035,2024-07-16,Frank Castle,Small Business,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0036,2024-07-05,Frank Castle,Consumer,East,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Pending
+ORD0037,2024-12-11,Charlie Brown,Small Business,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Pending
+ORD0038,2024-05-07,Grace Hopper,Corporate,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0039,2024-05-30,Olivia Brown,Corporate,South,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0040,2024-05-23,Jack Ryan,Consumer,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Pending
+ORD0041,2024-10-30,Noah Wilson,Consumer,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0042,2024-08-20,Charlie Brown,Small Business,West,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0043,2024-04-25,Karen Page,Consumer,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Pending
+ORD0044,2024-09-10,Charlie Brown,Corporate,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0045,2024-12-03,Bob Jones,Corporate,East,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Cancelled
+ORD0046,2024-06-09,Diana Prince,Consumer,South,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0047,2024-05-07,Alice Smith,Small Business,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0048,2024-01-27,Bob Jones,Consumer,South,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0049,2024-11-12,Charlie Brown,Small Business,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0050,2024-08-07,Noah Wilson,Consumer,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Cancelled
+ORD0051,2024-08-20,Eve Wilson,Consumer,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Cancelled
+ORD0052,2024-04-25,Olivia Brown,Consumer,North,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0053,2024-10-07,Jack Ryan,Small Business,South,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0054,2024-10-14,Olivia Brown,Corporate,East,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0055,2024-09-29,Henry Ford,Consumer,North,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0056,2024-06-18,Grace Hopper,Corporate,East,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0057,2024-11-11,Jack Ryan,Small Business,North,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0058,2024-09-20,Noah Wilson,Corporate,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0059,2024-12-19,Bob Jones,Small Business,East,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0060,2024-03-03,Noah Wilson,Consumer,South,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0061,2024-06-28,Jack Ryan,Corporate,East,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0062,2024-09-20,Eve Wilson,Consumer,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Pending
+ORD0063,2024-12-15,Olivia Brown,Small Business,East,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Pending
+ORD0064,2024-04-15,Noah Wilson,Small Business,North,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0065,2024-08-16,Jack Ryan,Consumer,South,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0066,2024-02-27,Jack Ryan,Consumer,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0067,2024-08-24,Eve Wilson,Consumer,West,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0068,2024-10-04,Maria Davis,Small Business,East,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0069,2024-03-26,Isla Fisher,Consumer,South,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Pending
+ORD0070,2024-04-03,Noah Wilson,Corporate,West,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Cancelled
+ORD0071,2024-12-06,Grace Hopper,Consumer,South,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0072,2024-01-10,Frank Castle,Consumer,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0073,2024-09-06,Charlie Brown,Corporate,West,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0074,2024-01-04,Henry Ford,Small Business,South,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0075,2024-06-26,Charlie Brown,Consumer,North,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Cancelled
+ORD0076,2024-04-10,Leo Garcia,Small Business,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0077,2024-02-12,Leo Garcia,Consumer,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Pending
+ORD0078,2024-08-29,Charlie Brown,Small Business,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0079,2024-03-30,Noah Wilson,Corporate,East,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0080,2024-11-09,Eve Wilson,Corporate,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0081,2024-08-04,Eve Wilson,Consumer,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Pending
+ORD0082,2024-07-10,Charlie Brown,Consumer,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Pending
+ORD0083,2024-04-05,Henry Ford,Small Business,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0084,2024-10-05,Isla Fisher,Small Business,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0085,2024-08-04,Frank Castle,Consumer,East,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0086,2024-08-20,Charlie Brown,Consumer,East,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Pending
+ORD0087,2024-05-23,Eve Wilson,Consumer,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Pending
+ORD0088,2024-02-22,Grace Hopper,Consumer,East,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0089,2024-07-04,Grace Hopper,Corporate,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0090,2024-08-02,Maria Davis,Small Business,East,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0091,2024-09-09,Frank Castle,Small Business,South,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Cancelled
+ORD0092,2024-10-09,Jack Ryan,Corporate,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Cancelled
+ORD0093,2024-05-15,Maria Davis,Consumer,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Pending
+ORD0094,2024-10-27,Diana Prince,Corporate,West,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0095,2024-07-20,Jack Ryan,Small Business,East,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0096,2024-05-05,Jack Ryan,Consumer,East,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0097,2024-12-13,Noah Wilson,Consumer,East,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Pending
+ORD0098,2024-11-07,Alice Smith,Corporate,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0099,2024-07-21,Leo Garcia,Consumer,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0100,2024-02-16,Isla Fisher,Consumer,South,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0101,2024-05-23,Grace Hopper,Consumer,East,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Pending
+ORD0102,2024-06-04,Eve Wilson,Corporate,West,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Pending
+ORD0103,2024-11-11,Bob Jones,Consumer,North,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0104,2024-07-19,Alice Smith,Consumer,West,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0105,2024-03-22,Charlie Brown,Consumer,East,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0106,2024-11-07,Noah Wilson,Corporate,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Cancelled
+ORD0107,2024-03-05,Bob Jones,Small Business,North,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0108,2024-03-03,Isla Fisher,Corporate,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0109,2024-04-07,Isla Fisher,Small Business,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0110,2024-07-15,Olivia Brown,Consumer,South,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0111,2024-02-22,Eve Wilson,Corporate,South,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0112,2024-03-18,Isla Fisher,Corporate,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0113,2024-10-14,Bob Jones,Small Business,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0114,2024-04-27,Charlie Brown,Small Business,South,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0115,2024-08-09,Karen Page,Consumer,North,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Cancelled
+ORD0116,2024-03-15,Charlie Brown,Small Business,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0117,2024-04-07,Bob Jones,Corporate,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0118,2024-11-03,Isla Fisher,Corporate,North,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Pending
+ORD0119,2024-02-20,Alice Smith,Consumer,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Pending
+ORD0120,2024-11-25,Alice Smith,Consumer,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Cancelled
+ORD0121,2024-05-05,Karen Page,Small Business,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0122,2024-05-30,Grace Hopper,Small Business,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Pending
+ORD0123,2024-07-02,Isla Fisher,Small Business,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0124,2024-05-01,Charlie Brown,Small Business,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Cancelled
+ORD0125,2024-06-18,Maria Davis,Corporate,North,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0126,2024-01-12,Jack Ryan,Corporate,South,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0127,2024-03-13,Jack Ryan,Consumer,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0128,2024-11-14,Maria Davis,Consumer,South,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Pending
+ORD0129,2024-12-20,Maria Davis,Small Business,East,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0130,2024-12-30,Jack Ryan,Corporate,East,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0131,2024-04-20,Grace Hopper,Corporate,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Pending
+ORD0132,2024-10-20,Charlie Brown,Small Business,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0133,2024-01-28,Jack Ryan,Small Business,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0134,2024-05-05,Leo Garcia,Consumer,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Cancelled
+ORD0135,2024-03-08,Jack Ryan,Small Business,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Cancelled
+ORD0136,2024-04-20,Frank Castle,Corporate,East,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0137,2024-04-10,Frank Castle,Corporate,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0138,2024-12-30,Frank Castle,Consumer,North,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0139,2024-07-16,Frank Castle,Small Business,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Pending
+ORD0140,2024-09-03,Charlie Brown,Small Business,East,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Cancelled
+ORD0141,2024-08-07,Karen Page,Small Business,South,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0142,2024-03-02,Isla Fisher,Corporate,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0143,2024-06-21,Leo Garcia,Consumer,South,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0144,2024-10-01,Diana Prince,Consumer,West,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0145,2024-05-21,Frank Castle,Consumer,South,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0146,2024-09-15,Alice Smith,Corporate,South,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0147,2024-06-20,Bob Jones,Consumer,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0148,2024-11-14,Eve Wilson,Consumer,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0149,2024-04-03,Olivia Brown,Consumer,North,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Pending
+ORD0150,2024-05-16,Bob Jones,Small Business,East,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0151,2024-11-15,Maria Davis,Small Business,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Cancelled
+ORD0152,2024-06-13,Eve Wilson,Small Business,East,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0153,2024-08-24,Jack Ryan,Consumer,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0154,2024-01-23,Olivia Brown,Small Business,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0155,2024-11-04,Henry Ford,Small Business,East,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0156,2024-06-27,Henry Ford,Corporate,West,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Pending
+ORD0157,2024-08-18,Karen Page,Consumer,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0158,2024-10-15,Noah Wilson,Corporate,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0159,2024-11-25,Alice Smith,Corporate,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Cancelled
+ORD0160,2024-08-03,Diana Prince,Small Business,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Cancelled
+ORD0161,2024-06-21,Bob Jones,Small Business,East,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Completed
+ORD0162,2024-10-18,Jack Ryan,Small Business,East,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Cancelled
+ORD0163,2024-09-10,Jack Ryan,Corporate,South,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0164,2024-04-13,Noah Wilson,Corporate,North,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0165,2024-06-19,Leo Garcia,Consumer,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Cancelled
+ORD0166,2024-04-01,Olivia Brown,Corporate,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0167,2024-08-01,Karen Page,Small Business,North,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Cancelled
+ORD0168,2024-04-19,Diana Prince,Corporate,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0169,2024-05-28,Olivia Brown,Consumer,North,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0170,2024-11-08,Eve Wilson,Corporate,North,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0171,2024-03-30,Karen Page,Corporate,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0172,2024-01-17,Karen Page,Small Business,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0173,2024-06-28,Frank Castle,Consumer,West,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0174,2024-03-03,Karen Page,Corporate,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Pending
+ORD0175,2024-02-18,Grace Hopper,Consumer,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0176,2024-04-27,Frank Castle,Small Business,North,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0177,2024-08-11,Maria Davis,Corporate,East,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0178,2024-11-13,Noah Wilson,Consumer,North,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0179,2024-01-18,Alice Smith,Corporate,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0180,2024-04-22,Bob Jones,Corporate,South,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0181,2024-09-20,Maria Davis,Small Business,East,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0182,2024-06-10,Leo Garcia,Consumer,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0183,2024-01-08,Alice Smith,Consumer,East,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0184,2024-09-11,Maria Davis,Corporate,North,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0185,2024-04-06,Leo Garcia,Small Business,West,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0186,2024-06-13,Frank Castle,Consumer,South,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0187,2024-09-19,Alice Smith,Small Business,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0188,2024-10-11,Leo Garcia,Corporate,South,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0189,2024-01-11,Jack Ryan,Small Business,South,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0190,2024-01-20,Eve Wilson,Consumer,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0191,2024-12-20,Diana Prince,Corporate,South,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0192,2024-07-20,Noah Wilson,Small Business,South,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0193,2024-07-27,Noah Wilson,Consumer,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0194,2024-09-02,Frank Castle,Small Business,South,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Pending
+ORD0195,2024-01-29,Maria Davis,Corporate,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0196,2024-05-07,Eve Wilson,Corporate,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0197,2024-01-17,Eve Wilson,Consumer,South,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0198,2024-12-27,Frank Castle,Consumer,East,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0199,2024-06-16,Bob Jones,Consumer,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Cancelled
+ORD0200,2024-06-21,Alice Smith,Corporate,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Pending
+ORD0201,2024-11-05,Karen Page,Consumer,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0202,2024-10-08,Maria Davis,Consumer,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0203,2024-07-05,Grace Hopper,Small Business,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0204,2024-11-07,Alice Smith,Corporate,West,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0205,2024-08-31,Karen Page,Consumer,South,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0206,2024-06-02,Bob Jones,Consumer,North,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0207,2024-05-08,Isla Fisher,Consumer,East,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0208,2024-05-10,Bob Jones,Consumer,West,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Pending
+ORD0209,2024-01-12,Charlie Brown,Consumer,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0210,2024-01-17,Jack Ryan,Consumer,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0211,2024-09-20,Olivia Brown,Consumer,North,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0212,2024-03-29,Leo Garcia,Small Business,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0213,2024-01-26,Olivia Brown,Corporate,West,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0214,2024-03-26,Jack Ryan,Small Business,South,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Cancelled
+ORD0215,2024-06-24,Henry Ford,Corporate,East,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Cancelled
+ORD0216,2024-04-12,Alice Smith,Corporate,East,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0217,2024-10-19,Karen Page,Corporate,East,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Pending
+ORD0218,2024-01-04,Maria Davis,Corporate,North,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Cancelled
+ORD0219,2024-01-16,Maria Davis,Corporate,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0220,2024-06-18,Bob Jones,Corporate,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Cancelled
+ORD0221,2024-02-08,Noah Wilson,Consumer,South,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0222,2024-07-03,Henry Ford,Small Business,North,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0223,2024-03-05,Noah Wilson,Consumer,East,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0224,2024-11-19,Bob Jones,Corporate,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0225,2024-03-13,Olivia Brown,Consumer,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Pending
+ORD0226,2024-03-01,Eve Wilson,Small Business,West,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0227,2024-07-17,Diana Prince,Small Business,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Pending
+ORD0228,2024-08-30,Maria Davis,Corporate,South,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0229,2024-08-05,Isla Fisher,Consumer,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0230,2024-09-17,Frank Castle,Small Business,East,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0231,2024-01-20,Jack Ryan,Consumer,North,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0232,2024-06-26,Bob Jones,Corporate,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0233,2024-04-29,Maria Davis,Small Business,North,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0234,2024-04-07,Karen Page,Consumer,West,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0235,2024-08-13,Leo Garcia,Corporate,North,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0236,2024-08-13,Henry Ford,Small Business,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0237,2024-02-06,Leo Garcia,Consumer,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Cancelled
+ORD0238,2024-02-09,Maria Davis,Corporate,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0239,2024-02-25,Henry Ford,Corporate,West,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0240,2024-12-01,Henry Ford,Consumer,East,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0241,2024-12-28,Maria Davis,Consumer,North,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0242,2024-07-06,Grace Hopper,Consumer,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0243,2024-01-31,Grace Hopper,Corporate,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0244,2024-12-21,Bob Jones,Corporate,North,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Cancelled
+ORD0245,2024-08-11,Maria Davis,Corporate,East,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0246,2024-12-25,Olivia Brown,Corporate,West,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Cancelled
+ORD0247,2024-03-14,Isla Fisher,Corporate,East,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Pending
+ORD0248,2024-10-04,Diana Prince,Corporate,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0249,2024-07-11,Frank Castle,Corporate,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0250,2024-09-26,Olivia Brown,Consumer,West,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0251,2024-01-07,Maria Davis,Small Business,North,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0252,2024-08-13,Maria Davis,Consumer,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0253,2024-06-05,Karen Page,Corporate,East,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0254,2024-01-27,Charlie Brown,Consumer,South,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Pending
+ORD0255,2024-01-21,Olivia Brown,Consumer,East,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Pending
+ORD0256,2024-09-13,Jack Ryan,Corporate,East,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0257,2024-10-07,Henry Ford,Corporate,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Pending
+ORD0258,2024-05-24,Maria Davis,Consumer,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0259,2024-07-17,Charlie Brown,Consumer,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Pending
+ORD0260,2024-02-15,Olivia Brown,Consumer,South,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0261,2024-01-09,Frank Castle,Consumer,West,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Cancelled
+ORD0262,2024-12-09,Henry Ford,Small Business,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Cancelled
+ORD0263,2024-09-30,Noah Wilson,Corporate,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0264,2024-04-11,Isla Fisher,Small Business,South,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0265,2024-03-16,Isla Fisher,Corporate,West,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Pending
+ORD0266,2024-07-20,Henry Ford,Corporate,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0267,2024-10-15,Isla Fisher,Consumer,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0268,2024-04-12,Bob Jones,Corporate,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0269,2024-05-22,Bob Jones,Corporate,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0270,2024-11-12,Charlie Brown,Small Business,South,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0271,2024-12-24,Olivia Brown,Consumer,South,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Pending
+ORD0272,2024-12-13,Noah Wilson,Corporate,East,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0273,2024-03-24,Diana Prince,Corporate,South,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0274,2024-07-06,Jack Ryan,Corporate,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0275,2024-03-27,Leo Garcia,Consumer,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Cancelled
+ORD0276,2024-05-26,Grace Hopper,Corporate,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Cancelled
+ORD0277,2024-04-28,Eve Wilson,Small Business,West,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0278,2024-07-29,Frank Castle,Consumer,West,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0279,2024-07-20,Charlie Brown,Small Business,North,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Cancelled
+ORD0280,2024-11-27,Alice Smith,Corporate,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0281,2024-10-19,Diana Prince,Corporate,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Pending
+ORD0282,2024-06-25,Charlie Brown,Consumer,West,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0283,2024-08-15,Bob Jones,Small Business,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0284,2024-08-30,Charlie Brown,Corporate,South,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Cancelled
+ORD0285,2024-01-18,Henry Ford,Consumer,East,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0286,2024-01-08,Diana Prince,Corporate,East,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0287,2024-11-20,Frank Castle,Consumer,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0288,2024-03-24,Bob Jones,Small Business,South,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0289,2024-01-28,Bob Jones,Small Business,North,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Cancelled
+ORD0290,2024-06-12,Maria Davis,Small Business,East,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0291,2024-04-27,Noah Wilson,Corporate,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0292,2024-05-12,Diana Prince,Small Business,West,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0293,2024-10-10,Isla Fisher,Small Business,North,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0294,2024-04-29,Leo Garcia,Small Business,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Pending
+ORD0295,2024-11-29,Bob Jones,Consumer,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Cancelled
+ORD0296,2024-10-11,Alice Smith,Small Business,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Cancelled
+ORD0297,2024-11-20,Alice Smith,Consumer,East,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Pending
+ORD0298,2024-06-29,Bob Jones,Small Business,East,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0299,2024-10-11,Isla Fisher,Small Business,East,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0300,2024-10-20,Diana Prince,Small Business,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Cancelled
+ORD0301,2024-08-21,Leo Garcia,Small Business,West,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0302,2024-09-20,Maria Davis,Corporate,North,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0303,2024-04-23,Bob Jones,Consumer,South,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0304,2024-10-28,Diana Prince,Consumer,North,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0305,2024-12-26,Jack Ryan,Corporate,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0306,2024-06-09,Isla Fisher,Consumer,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0307,2024-03-17,Olivia Brown,Consumer,East,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0308,2024-04-11,Noah Wilson,Corporate,East,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0309,2024-10-05,Charlie Brown,Consumer,East,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0310,2024-07-31,Olivia Brown,Consumer,West,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0311,2024-11-11,Maria Davis,Consumer,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0312,2024-04-11,Jack Ryan,Small Business,East,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0313,2024-01-03,Eve Wilson,Corporate,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0314,2024-04-26,Maria Davis,Corporate,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Pending
+ORD0315,2024-10-30,Eve Wilson,Small Business,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0316,2024-12-29,Karen Page,Small Business,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Cancelled
+ORD0317,2024-12-01,Olivia Brown,Consumer,West,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0318,2024-02-20,Olivia Brown,Consumer,North,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0319,2024-02-21,Noah Wilson,Small Business,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0320,2024-06-06,Bob Jones,Corporate,North,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Cancelled
+ORD0321,2024-12-10,Noah Wilson,Small Business,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Pending
+ORD0322,2024-06-07,Grace Hopper,Small Business,West,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0323,2024-10-24,Henry Ford,Corporate,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0324,2024-12-27,Olivia Brown,Small Business,North,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Cancelled
+ORD0325,2024-01-26,Isla Fisher,Small Business,South,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0326,2024-06-18,Henry Ford,Consumer,South,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0327,2024-02-19,Henry Ford,Small Business,West,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Pending
+ORD0328,2024-12-10,Bob Jones,Small Business,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0329,2024-03-09,Olivia Brown,Consumer,East,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Pending
+ORD0330,2024-04-28,Eve Wilson,Consumer,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0331,2024-06-08,Karen Page,Corporate,North,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Cancelled
+ORD0332,2024-09-14,Charlie Brown,Small Business,North,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0333,2024-05-04,Grace Hopper,Consumer,North,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0334,2024-10-28,Charlie Brown,Corporate,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0335,2024-02-05,Henry Ford,Consumer,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0336,2024-05-15,Alice Smith,Small Business,South,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0337,2024-09-25,Alice Smith,Corporate,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0338,2024-03-07,Frank Castle,Consumer,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0339,2024-08-02,Leo Garcia,Corporate,South,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0340,2024-10-12,Diana Prince,Corporate,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0341,2024-11-28,Maria Davis,Small Business,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0342,2024-06-06,Isla Fisher,Small Business,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Pending
+ORD0343,2024-05-15,Diana Prince,Small Business,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Cancelled
+ORD0344,2024-04-24,Henry Ford,Corporate,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Pending
+ORD0345,2024-11-16,Isla Fisher,Corporate,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Pending
+ORD0346,2024-08-18,Alice Smith,Consumer,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Pending
+ORD0347,2024-08-13,Maria Davis,Corporate,West,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0348,2024-08-24,Bob Jones,Consumer,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0349,2024-11-26,Charlie Brown,Corporate,East,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0350,2024-11-06,Frank Castle,Small Business,South,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0351,2024-04-10,Diana Prince,Corporate,West,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0352,2024-10-17,Noah Wilson,Corporate,South,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0353,2024-01-14,Isla Fisher,Small Business,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0354,2024-05-09,Charlie Brown,Corporate,South,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Pending
+ORD0355,2024-01-25,Bob Jones,Consumer,North,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0356,2024-04-19,Frank Castle,Corporate,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Pending
+ORD0357,2024-01-25,Maria Davis,Consumer,South,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Cancelled
+ORD0358,2024-01-25,Olivia Brown,Consumer,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Pending
+ORD0359,2024-11-11,Olivia Brown,Corporate,West,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Cancelled
+ORD0360,2024-05-30,Charlie Brown,Small Business,East,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Cancelled
+ORD0361,2024-09-22,Isla Fisher,Corporate,South,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0362,2024-02-25,Olivia Brown,Consumer,East,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0363,2024-05-28,Isla Fisher,Corporate,South,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0364,2024-04-06,Diana Prince,Small Business,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0365,2024-11-03,Maria Davis,Corporate,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0366,2024-07-09,Noah Wilson,Consumer,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0367,2024-03-26,Eve Wilson,Corporate,East,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0368,2024-05-17,Grace Hopper,Corporate,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Cancelled
+ORD0369,2024-07-31,Jack Ryan,Corporate,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Cancelled
+ORD0370,2024-06-21,Diana Prince,Consumer,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0371,2024-09-12,Grace Hopper,Consumer,South,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Pending
+ORD0372,2024-04-21,Leo Garcia,Corporate,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0373,2024-02-11,Eve Wilson,Corporate,North,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0374,2024-04-29,Isla Fisher,Consumer,North,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0375,2024-08-29,Jack Ryan,Consumer,West,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0376,2024-09-20,Karen Page,Corporate,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0377,2024-12-08,Henry Ford,Consumer,East,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Cancelled
+ORD0378,2024-01-08,Maria Davis,Consumer,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0379,2024-05-31,Alice Smith,Consumer,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Cancelled
+ORD0380,2024-08-15,Karen Page,Small Business,East,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0381,2024-09-17,Eve Wilson,Corporate,South,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0382,2024-12-02,Olivia Brown,Consumer,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0383,2024-02-18,Diana Prince,Corporate,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0384,2024-04-28,Noah Wilson,Small Business,South,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0385,2024-05-19,Karen Page,Corporate,South,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Cancelled
+ORD0386,2024-08-13,Karen Page,Corporate,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0387,2024-07-01,Isla Fisher,Consumer,West,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0388,2024-04-23,Frank Castle,Corporate,West,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Cancelled
+ORD0389,2024-05-01,Noah Wilson,Small Business,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0390,2024-05-28,Maria Davis,Corporate,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Pending
+ORD0391,2024-12-10,Frank Castle,Consumer,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0392,2024-07-31,Olivia Brown,Small Business,South,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0393,2024-10-04,Karen Page,Consumer,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0394,2024-07-09,Frank Castle,Small Business,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0395,2024-10-07,Eve Wilson,Small Business,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0396,2024-12-29,Eve Wilson,Small Business,North,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Pending
+ORD0397,2024-08-11,Jack Ryan,Corporate,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0398,2024-10-28,Grace Hopper,Small Business,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0399,2024-03-26,Jack Ryan,Corporate,South,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0400,2024-01-20,Karen Page,Small Business,East,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0401,2024-05-11,Olivia Brown,Consumer,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0402,2024-06-02,Eve Wilson,Corporate,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Cancelled
+ORD0403,2024-07-06,Isla Fisher,Consumer,West,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0404,2024-08-08,Noah Wilson,Small Business,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0405,2024-09-10,Henry Ford,Corporate,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0406,2024-02-29,Charlie Brown,Consumer,East,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0407,2024-03-16,Noah Wilson,Corporate,South,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Cancelled
+ORD0408,2024-06-21,Diana Prince,Corporate,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0409,2024-05-25,Olivia Brown,Consumer,East,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Pending
+ORD0410,2024-04-27,Maria Davis,Consumer,North,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Pending
+ORD0411,2024-07-16,Olivia Brown,Corporate,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0412,2024-03-30,Eve Wilson,Consumer,West,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Cancelled
+ORD0413,2024-09-15,Maria Davis,Small Business,North,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0414,2024-12-30,Charlie Brown,Consumer,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0415,2024-03-09,Maria Davis,Consumer,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0416,2024-07-10,Eve Wilson,Corporate,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0417,2024-05-08,Henry Ford,Consumer,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0418,2024-12-29,Leo Garcia,Consumer,East,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Pending
+ORD0419,2024-02-05,Eve Wilson,Corporate,West,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Pending
+ORD0420,2024-06-11,Grace Hopper,Corporate,West,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0421,2024-08-04,Maria Davis,Corporate,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0422,2024-03-24,Bob Jones,Corporate,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0423,2024-06-26,Alice Smith,Small Business,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0424,2024-05-27,Henry Ford,Small Business,West,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0425,2024-05-21,Isla Fisher,Consumer,South,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0426,2024-05-10,Grace Hopper,Corporate,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0427,2024-12-10,Eve Wilson,Consumer,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0428,2024-04-26,Diana Prince,Small Business,South,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0429,2024-03-21,Henry Ford,Consumer,North,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0430,2024-06-17,Grace Hopper,Corporate,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0431,2024-03-05,Jack Ryan,Consumer,North,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0432,2024-03-06,Jack Ryan,Corporate,West,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0433,2024-12-09,Olivia Brown,Corporate,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0434,2024-07-10,Charlie Brown,Small Business,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Cancelled
+ORD0435,2024-03-08,Noah Wilson,Corporate,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Cancelled
+ORD0436,2024-04-01,Noah Wilson,Small Business,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0437,2024-10-10,Jack Ryan,Consumer,East,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0438,2024-02-13,Alice Smith,Corporate,West,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0439,2024-10-05,Isla Fisher,Small Business,South,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0440,2024-11-02,Karen Page,Corporate,West,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Pending
+ORD0441,2024-03-25,Henry Ford,Small Business,North,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Completed
+ORD0442,2024-09-24,Bob Jones,Small Business,West,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0443,2024-04-23,Karen Page,Corporate,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Pending
+ORD0444,2024-06-24,Karen Page,Consumer,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0445,2024-10-28,Grace Hopper,Consumer,East,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0446,2024-01-21,Noah Wilson,Consumer,South,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0447,2024-08-10,Karen Page,Small Business,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0448,2024-05-10,Alice Smith,Consumer,West,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0449,2024-08-14,Maria Davis,Consumer,North,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Pending
+ORD0450,2024-05-13,Charlie Brown,Consumer,East,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0451,2024-08-03,Bob Jones,Corporate,East,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0452,2024-06-04,Henry Ford,Corporate,South,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0453,2024-06-28,Bob Jones,Consumer,East,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0454,2024-10-05,Frank Castle,Consumer,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Pending
+ORD0455,2024-07-30,Maria Davis,Corporate,South,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0456,2024-02-16,Grace Hopper,Corporate,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Pending
+ORD0457,2024-01-04,Jack Ryan,Consumer,East,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Cancelled
+ORD0458,2024-04-26,Eve Wilson,Corporate,West,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Pending
+ORD0459,2024-12-20,Leo Garcia,Consumer,East,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0460,2024-05-13,Karen Page,Small Business,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0461,2024-11-23,Noah Wilson,Small Business,East,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0462,2024-10-07,Henry Ford,Corporate,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0463,2024-10-01,Isla Fisher,Consumer,East,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0464,2024-10-01,Olivia Brown,Corporate,West,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Cancelled
+ORD0465,2024-10-12,Isla Fisher,Consumer,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Pending
+ORD0466,2024-11-04,Charlie Brown,Consumer,East,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0467,2024-03-08,Leo Garcia,Corporate,North,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0468,2024-04-29,Olivia Brown,Small Business,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0469,2024-02-04,Karen Page,Corporate,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Cancelled
+ORD0470,2024-10-30,Diana Prince,Consumer,East,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Pending
+ORD0471,2024-07-19,Maria Davis,Consumer,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0472,2024-08-03,Alice Smith,Consumer,East,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Pending
+ORD0473,2024-06-22,Olivia Brown,Small Business,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0474,2024-04-02,Frank Castle,Consumer,East,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Pending
+ORD0475,2024-06-27,Diana Prince,Small Business,East,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0476,2024-03-07,Frank Castle,Corporate,West,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Completed
+ORD0477,2024-09-13,Henry Ford,Small Business,South,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0478,2024-03-01,Leo Garcia,Corporate,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0479,2024-12-27,Alice Smith,Consumer,North,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0480,2024-05-21,Charlie Brown,Consumer,West,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0481,2024-10-28,Alice Smith,Corporate,West,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0482,2024-12-18,Jack Ryan,Small Business,North,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Cancelled
+ORD0483,2024-12-28,Frank Castle,Corporate,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0484,2024-10-31,Isla Fisher,Consumer,West,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Cancelled
+ORD0485,2024-07-01,Isla Fisher,Small Business,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0486,2024-11-28,Olivia Brown,Corporate,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0487,2024-01-19,Leo Garcia,Consumer,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Cancelled
+ORD0488,2024-03-30,Grace Hopper,Corporate,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0489,2024-08-02,Alice Smith,Small Business,West,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0490,2024-11-19,Noah Wilson,Consumer,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0491,2024-05-26,Olivia Brown,Consumer,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0492,2024-05-22,Isla Fisher,Small Business,South,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Cancelled
+ORD0493,2024-11-02,Karen Page,Consumer,South,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0494,2024-02-08,Leo Garcia,Small Business,West,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0495,2024-04-02,Frank Castle,Small Business,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0496,2024-09-24,Charlie Brown,Small Business,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Cancelled
+ORD0497,2024-07-31,Noah Wilson,Consumer,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0498,2024-10-20,Leo Garcia,Consumer,South,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0499,2024-04-08,Maria Davis,Small Business,North,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Cancelled
+ORD0500,2024-01-30,Leo Garcia,Corporate,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0501,2024-06-20,Olivia Brown,Consumer,East,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0502,2024-11-08,Frank Castle,Consumer,West,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0503,2024-01-07,Diana Prince,Consumer,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0504,2024-10-01,Maria Davis,Corporate,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0505,2024-05-05,Karen Page,Consumer,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Cancelled
+ORD0506,2024-06-24,Diana Prince,Corporate,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Pending
+ORD0507,2024-11-20,Noah Wilson,Small Business,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0508,2024-06-03,Noah Wilson,Corporate,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0509,2024-11-01,Frank Castle,Small Business,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Cancelled
+ORD0510,2024-05-01,Maria Davis,Consumer,South,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Pending
+ORD0511,2024-03-27,Frank Castle,Corporate,West,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0512,2024-03-17,Karen Page,Small Business,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Pending
+ORD0513,2024-08-11,Frank Castle,Consumer,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0514,2024-06-10,Maria Davis,Corporate,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0515,2024-02-11,Bob Jones,Consumer,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0516,2024-01-21,Leo Garcia,Small Business,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Pending
+ORD0517,2024-04-01,Olivia Brown,Consumer,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Cancelled
+ORD0518,2024-09-29,Charlie Brown,Corporate,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0519,2024-10-01,Eve Wilson,Small Business,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Pending
+ORD0520,2024-04-10,Diana Prince,Corporate,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0521,2024-09-23,Frank Castle,Consumer,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0522,2024-09-02,Karen Page,Small Business,West,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Cancelled
+ORD0523,2024-02-15,Jack Ryan,Corporate,North,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0524,2024-10-30,Leo Garcia,Corporate,East,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0525,2024-08-03,Grace Hopper,Small Business,East,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0526,2024-08-29,Alice Smith,Small Business,North,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0527,2024-06-23,Olivia Brown,Small Business,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Cancelled
+ORD0528,2024-11-23,Diana Prince,Consumer,North,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0529,2024-12-17,Henry Ford,Small Business,East,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0530,2024-07-07,Olivia Brown,Small Business,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0531,2024-08-01,Karen Page,Small Business,South,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0532,2024-07-22,Bob Jones,Consumer,West,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0533,2024-08-09,Olivia Brown,Small Business,East,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0534,2024-04-22,Henry Ford,Small Business,South,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0535,2024-01-25,Eve Wilson,Consumer,East,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Cancelled
+ORD0536,2024-07-06,Isla Fisher,Small Business,North,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Pending
+ORD0537,2024-07-09,Henry Ford,Small Business,North,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0538,2024-12-20,Henry Ford,Small Business,South,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Pending
+ORD0539,2024-03-01,Charlie Brown,Small Business,South,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0540,2024-06-10,Jack Ryan,Corporate,West,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0541,2024-01-13,Henry Ford,Small Business,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0542,2024-08-02,Noah Wilson,Corporate,East,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0543,2024-08-18,Eve Wilson,Small Business,North,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0544,2024-09-25,Eve Wilson,Small Business,North,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0545,2024-08-01,Olivia Brown,Consumer,East,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0546,2024-02-23,Diana Prince,Corporate,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0547,2024-11-30,Frank Castle,Corporate,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Pending
+ORD0548,2024-01-12,Grace Hopper,Small Business,South,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0549,2024-05-06,Karen Page,Consumer,West,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0550,2024-12-14,Jack Ryan,Corporate,West,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0551,2024-09-20,Isla Fisher,Corporate,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Pending
+ORD0552,2024-06-04,Karen Page,Consumer,North,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0553,2024-06-10,Leo Garcia,Corporate,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0554,2024-07-16,Henry Ford,Small Business,North,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0555,2024-11-11,Karen Page,Consumer,West,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0556,2024-08-22,Maria Davis,Consumer,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0557,2024-10-07,Noah Wilson,Consumer,North,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Pending
+ORD0558,2024-05-19,Eve Wilson,Corporate,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Cancelled
+ORD0559,2024-02-10,Charlie Brown,Small Business,West,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0560,2024-12-26,Leo Garcia,Small Business,North,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Cancelled
+ORD0561,2024-04-09,Olivia Brown,Corporate,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0562,2024-11-05,Henry Ford,Corporate,North,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Pending
+ORD0563,2024-08-24,Bob Jones,Consumer,West,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0564,2024-01-28,Frank Castle,Consumer,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0565,2024-09-08,Karen Page,Small Business,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0566,2024-02-22,Leo Garcia,Small Business,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0567,2024-12-02,Diana Prince,Corporate,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0568,2024-04-20,Frank Castle,Consumer,West,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Pending
+ORD0569,2024-06-19,Isla Fisher,Corporate,West,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0570,2024-12-05,Grace Hopper,Small Business,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Pending
+ORD0571,2024-10-09,Frank Castle,Consumer,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0572,2024-05-13,Grace Hopper,Consumer,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0573,2024-01-07,Diana Prince,Consumer,South,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Pending
+ORD0574,2024-05-14,Diana Prince,Small Business,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0575,2024-08-04,Henry Ford,Consumer,South,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0576,2024-06-05,Bob Jones,Corporate,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0577,2024-08-05,Diana Prince,Corporate,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0578,2024-11-07,Diana Prince,Corporate,East,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0579,2024-01-17,Karen Page,Corporate,West,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0580,2024-01-25,Jack Ryan,Small Business,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0581,2024-12-16,Leo Garcia,Small Business,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0582,2024-04-11,Henry Ford,Corporate,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0583,2024-10-08,Alice Smith,Corporate,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Pending
+ORD0584,2024-09-04,Frank Castle,Consumer,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0585,2024-05-01,Eve Wilson,Corporate,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0586,2024-08-10,Noah Wilson,Small Business,South,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Cancelled
+ORD0587,2024-08-22,Leo Garcia,Consumer,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0588,2024-12-16,Leo Garcia,Corporate,North,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Pending
+ORD0589,2024-02-17,Henry Ford,Small Business,South,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0590,2024-09-30,Charlie Brown,Small Business,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0591,2024-04-17,Charlie Brown,Consumer,East,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Cancelled
+ORD0592,2024-04-16,Karen Page,Consumer,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0593,2024-12-27,Henry Ford,Corporate,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0594,2024-02-08,Alice Smith,Small Business,West,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0595,2024-03-26,Leo Garcia,Consumer,North,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0596,2024-06-04,Jack Ryan,Small Business,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Cancelled
+ORD0597,2024-09-08,Henry Ford,Corporate,East,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0598,2024-06-03,Isla Fisher,Consumer,East,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Pending
+ORD0599,2024-09-21,Frank Castle,Small Business,East,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0600,2024-06-08,Isla Fisher,Consumer,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0601,2024-04-26,Noah Wilson,Small Business,East,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0602,2024-12-11,Noah Wilson,Consumer,South,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Cancelled
+ORD0603,2024-06-29,Karen Page,Corporate,West,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0604,2024-02-27,Jack Ryan,Consumer,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Pending
+ORD0605,2024-11-10,Karen Page,Consumer,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Cancelled
+ORD0606,2024-10-04,Bob Jones,Consumer,North,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Cancelled
+ORD0607,2024-09-12,Karen Page,Small Business,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0608,2024-04-18,Leo Garcia,Small Business,East,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0609,2024-05-11,Grace Hopper,Corporate,West,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0610,2024-08-08,Henry Ford,Consumer,West,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0611,2024-11-19,Jack Ryan,Small Business,East,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0612,2024-10-06,Karen Page,Small Business,North,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Pending
+ORD0613,2024-01-24,Henry Ford,Corporate,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0614,2024-06-29,Henry Ford,Small Business,North,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0615,2024-11-08,Maria Davis,Consumer,West,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Cancelled
+ORD0616,2024-06-16,Grace Hopper,Small Business,South,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Cancelled
+ORD0617,2024-06-27,Frank Castle,Small Business,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Pending
+ORD0618,2024-08-26,Isla Fisher,Consumer,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0619,2024-01-25,Karen Page,Small Business,South,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0620,2024-02-08,Henry Ford,Corporate,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Cancelled
+ORD0621,2024-09-28,Karen Page,Small Business,East,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0622,2024-06-10,Olivia Brown,Corporate,North,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0623,2024-09-29,Diana Prince,Small Business,North,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0624,2024-04-11,Alice Smith,Consumer,East,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0625,2024-03-21,Isla Fisher,Small Business,West,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0626,2024-07-16,Alice Smith,Small Business,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0627,2024-05-05,Isla Fisher,Consumer,South,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0628,2024-03-13,Maria Davis,Corporate,South,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Pending
+ORD0629,2024-01-03,Alice Smith,Small Business,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Pending
+ORD0630,2024-12-02,Charlie Brown,Corporate,East,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Pending
+ORD0631,2024-12-04,Karen Page,Small Business,West,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0632,2024-07-07,Grace Hopper,Small Business,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0633,2024-06-16,Charlie Brown,Consumer,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0634,2024-08-27,Noah Wilson,Small Business,East,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Pending
+ORD0635,2024-05-27,Olivia Brown,Small Business,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0636,2024-11-23,Grace Hopper,Corporate,West,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0637,2024-06-27,Bob Jones,Consumer,North,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Pending
+ORD0638,2024-10-09,Leo Garcia,Consumer,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0639,2024-11-29,Eve Wilson,Corporate,West,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0640,2024-01-19,Frank Castle,Consumer,East,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0641,2024-10-15,Maria Davis,Corporate,East,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0642,2024-09-04,Diana Prince,Consumer,West,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0643,2024-02-26,Henry Ford,Corporate,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Cancelled
+ORD0644,2024-11-17,Frank Castle,Corporate,North,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Pending
+ORD0645,2024-03-22,Jack Ryan,Consumer,North,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0646,2024-03-11,Karen Page,Small Business,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0647,2024-07-26,Bob Jones,Corporate,South,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0648,2024-06-05,Olivia Brown,Corporate,West,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0649,2024-04-17,Charlie Brown,Small Business,East,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Completed
+ORD0650,2024-11-18,Frank Castle,Small Business,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0651,2024-12-17,Frank Castle,Consumer,East,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Pending
+ORD0652,2024-03-05,Charlie Brown,Corporate,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0653,2024-05-29,Charlie Brown,Consumer,East,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Pending
+ORD0654,2024-10-10,Alice Smith,Consumer,North,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Pending
+ORD0655,2024-05-16,Diana Prince,Small Business,North,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0656,2024-08-24,Noah Wilson,Corporate,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0657,2024-10-09,Frank Castle,Corporate,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0658,2024-09-27,Diana Prince,Consumer,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0659,2024-09-04,Leo Garcia,Consumer,East,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0660,2024-07-30,Maria Davis,Small Business,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Cancelled
+ORD0661,2024-02-16,Olivia Brown,Consumer,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0662,2024-03-01,Bob Jones,Small Business,South,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0663,2024-01-16,Bob Jones,Corporate,West,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0664,2024-06-12,Karen Page,Small Business,North,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0665,2024-03-31,Noah Wilson,Small Business,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0666,2024-04-16,Isla Fisher,Small Business,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Pending
+ORD0667,2024-05-16,Bob Jones,Small Business,North,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0668,2024-05-02,Leo Garcia,Corporate,South,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Pending
+ORD0669,2024-04-16,Eve Wilson,Small Business,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0670,2024-07-04,Isla Fisher,Consumer,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Cancelled
+ORD0671,2024-07-25,Alice Smith,Small Business,East,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0672,2024-04-11,Frank Castle,Consumer,West,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Cancelled
+ORD0673,2024-07-20,Leo Garcia,Consumer,South,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0674,2024-10-17,Diana Prince,Consumer,North,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Pending
+ORD0675,2024-01-23,Isla Fisher,Consumer,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0676,2024-08-24,Grace Hopper,Corporate,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Cancelled
+ORD0677,2024-06-25,Jack Ryan,Corporate,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0678,2024-11-12,Isla Fisher,Corporate,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Cancelled
+ORD0679,2024-04-27,Eve Wilson,Corporate,East,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Completed
+ORD0680,2024-11-08,Olivia Brown,Corporate,North,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Cancelled
+ORD0681,2024-06-08,Noah Wilson,Small Business,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Cancelled
+ORD0682,2024-05-13,Leo Garcia,Corporate,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0683,2024-05-01,Jack Ryan,Small Business,West,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0684,2024-07-19,Jack Ryan,Small Business,South,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0685,2024-05-31,Henry Ford,Small Business,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0686,2024-01-19,Charlie Brown,Corporate,West,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0687,2024-12-19,Charlie Brown,Consumer,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0688,2024-08-26,Maria Davis,Consumer,North,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Cancelled
+ORD0689,2024-01-17,Grace Hopper,Consumer,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0690,2024-01-07,Jack Ryan,Consumer,East,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Cancelled
+ORD0691,2024-03-02,Alice Smith,Small Business,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0692,2024-04-26,Karen Page,Corporate,West,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0693,2024-03-13,Henry Ford,Consumer,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0694,2024-12-29,Charlie Brown,Corporate,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0695,2024-09-27,Charlie Brown,Small Business,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0696,2024-02-17,Bob Jones,Corporate,South,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Pending
+ORD0697,2024-11-30,Leo Garcia,Consumer,North,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0698,2024-11-28,Maria Davis,Corporate,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0699,2024-11-18,Charlie Brown,Small Business,South,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0700,2024-02-29,Diana Prince,Small Business,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0701,2024-12-13,Olivia Brown,Corporate,North,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0702,2024-09-06,Jack Ryan,Consumer,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Cancelled
+ORD0703,2024-07-27,Charlie Brown,Consumer,East,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Pending
+ORD0704,2024-09-21,Olivia Brown,Corporate,North,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0705,2024-10-03,Jack Ryan,Corporate,North,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Cancelled
+ORD0706,2024-11-27,Jack Ryan,Consumer,North,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0707,2024-11-08,Henry Ford,Consumer,East,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0708,2024-07-25,Alice Smith,Corporate,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0709,2024-10-05,Bob Jones,Corporate,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0710,2024-08-26,Charlie Brown,Corporate,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0711,2024-06-04,Eve Wilson,Corporate,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Cancelled
+ORD0712,2024-07-25,Diana Prince,Small Business,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Pending
+ORD0713,2024-12-05,Leo Garcia,Consumer,West,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0714,2024-04-05,Charlie Brown,Small Business,North,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Pending
+ORD0715,2024-06-24,Frank Castle,Consumer,West,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0716,2024-04-13,Maria Davis,Corporate,South,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0717,2024-06-30,Maria Davis,Corporate,West,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0718,2024-10-25,Maria Davis,Small Business,East,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Cancelled
+ORD0719,2024-12-30,Karen Page,Small Business,East,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Cancelled
+ORD0720,2024-07-05,Eve Wilson,Small Business,South,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0721,2024-03-26,Frank Castle,Small Business,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0722,2024-07-01,Olivia Brown,Small Business,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0723,2024-12-06,Maria Davis,Corporate,East,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0724,2024-01-29,Olivia Brown,Small Business,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0725,2024-06-01,Diana Prince,Small Business,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0726,2024-07-15,Olivia Brown,Small Business,North,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0727,2024-02-19,Diana Prince,Corporate,North,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Completed
+ORD0728,2024-01-14,Karen Page,Small Business,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0729,2024-03-15,Eve Wilson,Consumer,East,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0730,2024-06-30,Jack Ryan,Corporate,East,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0731,2024-07-11,Olivia Brown,Corporate,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0732,2024-05-21,Bob Jones,Corporate,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0733,2024-02-12,Olivia Brown,Corporate,West,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0734,2024-04-03,Maria Davis,Consumer,South,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Cancelled
+ORD0735,2024-10-18,Frank Castle,Corporate,East,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Pending
+ORD0736,2024-05-29,Diana Prince,Consumer,West,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0737,2024-04-25,Grace Hopper,Corporate,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0738,2024-08-26,Henry Ford,Small Business,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0739,2024-07-30,Eve Wilson,Corporate,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0740,2024-08-09,Noah Wilson,Small Business,North,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Pending
+ORD0741,2024-03-04,Jack Ryan,Corporate,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0742,2024-03-11,Leo Garcia,Corporate,South,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0743,2024-12-23,Henry Ford,Corporate,West,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Pending
+ORD0744,2024-10-19,Noah Wilson,Consumer,West,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Pending
+ORD0745,2024-04-19,Henry Ford,Consumer,South,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Pending
+ORD0746,2024-02-18,Diana Prince,Consumer,North,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Pending
+ORD0747,2024-03-26,Diana Prince,Small Business,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0748,2024-10-28,Noah Wilson,Consumer,West,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0749,2024-04-21,Leo Garcia,Corporate,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0750,2024-11-08,Grace Hopper,Corporate,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0751,2024-03-29,Bob Jones,Small Business,West,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0752,2024-12-02,Isla Fisher,Corporate,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Cancelled
+ORD0753,2024-07-26,Isla Fisher,Small Business,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0754,2024-11-22,Isla Fisher,Small Business,West,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0755,2024-07-05,Isla Fisher,Corporate,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0756,2024-08-16,Frank Castle,Small Business,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0757,2024-02-08,Henry Ford,Consumer,North,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0758,2024-02-22,Noah Wilson,Small Business,West,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0759,2024-07-26,Frank Castle,Consumer,South,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0760,2024-09-12,Karen Page,Consumer,East,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Cancelled
+ORD0761,2024-12-10,Olivia Brown,Consumer,East,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Cancelled
+ORD0762,2024-01-13,Maria Davis,Small Business,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0763,2024-07-23,Alice Smith,Corporate,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0764,2024-09-29,Henry Ford,Corporate,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0765,2024-04-20,Karen Page,Consumer,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Cancelled
+ORD0766,2024-07-07,Grace Hopper,Corporate,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0767,2024-04-05,Bob Jones,Consumer,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0768,2024-04-21,Grace Hopper,Consumer,West,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0769,2024-06-28,Jack Ryan,Small Business,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Pending
+ORD0770,2024-11-03,Isla Fisher,Corporate,East,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0771,2024-04-07,Isla Fisher,Small Business,West,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0772,2024-03-12,Karen Page,Corporate,West,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0773,2024-07-08,Charlie Brown,Small Business,East,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0774,2024-08-08,Eve Wilson,Consumer,West,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Completed
+ORD0775,2024-07-10,Charlie Brown,Corporate,West,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0776,2024-05-18,Henry Ford,Consumer,North,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0777,2024-12-24,Leo Garcia,Small Business,North,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0778,2024-02-07,Grace Hopper,Consumer,East,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Pending
+ORD0779,2024-06-25,Karen Page,Corporate,North,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Pending
+ORD0780,2024-04-14,Diana Prince,Small Business,West,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0781,2024-12-20,Noah Wilson,Small Business,West,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0782,2024-10-30,Henry Ford,Consumer,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0783,2024-05-16,Olivia Brown,Small Business,West,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Cancelled
+ORD0784,2024-03-07,Jack Ryan,Corporate,South,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0785,2024-12-25,Jack Ryan,Small Business,East,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Cancelled
+ORD0786,2024-10-09,Alice Smith,Small Business,East,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Pending
+ORD0787,2024-02-13,Jack Ryan,Small Business,South,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0788,2024-05-11,Grace Hopper,Small Business,West,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Completed
+ORD0789,2024-03-06,Noah Wilson,Small Business,South,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0790,2024-04-25,Frank Castle,Consumer,South,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Cancelled
+ORD0791,2024-10-20,Maria Davis,Small Business,South,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0792,2024-10-03,Henry Ford,Consumer,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Cancelled
+ORD0793,2024-12-28,Leo Garcia,Small Business,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Pending
+ORD0794,2024-08-14,Frank Castle,Small Business,West,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0795,2024-05-17,Isla Fisher,Consumer,West,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0796,2024-08-24,Eve Wilson,Small Business,North,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0797,2024-07-15,Isla Fisher,Small Business,West,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0798,2024-11-02,Noah Wilson,Small Business,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Pending
+ORD0799,2024-07-23,Karen Page,Small Business,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Cancelled
+ORD0800,2024-04-03,Isla Fisher,Small Business,East,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0801,2024-09-03,Olivia Brown,Consumer,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0802,2024-04-20,Alice Smith,Consumer,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0803,2024-11-30,Alice Smith,Corporate,South,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0804,2024-01-17,Frank Castle,Corporate,North,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0805,2024-03-18,Maria Davis,Corporate,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Cancelled
+ORD0806,2024-10-09,Maria Davis,Consumer,East,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Cancelled
+ORD0807,2024-02-29,Frank Castle,Consumer,South,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0808,2024-01-26,Olivia Brown,Consumer,South,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Pending
+ORD0809,2024-08-29,Bob Jones,Consumer,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Cancelled
+ORD0810,2024-01-19,Olivia Brown,Small Business,East,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Pending
+ORD0811,2024-04-09,Charlie Brown,Corporate,West,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Pending
+ORD0812,2024-05-24,Grace Hopper,Small Business,South,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Completed
+ORD0813,2024-05-20,Frank Castle,Corporate,West,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Cancelled
+ORD0814,2024-07-26,Leo Garcia,Corporate,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0815,2024-12-17,Maria Davis,Corporate,East,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0816,2024-06-07,Isla Fisher,Small Business,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0817,2024-04-12,Jack Ryan,Consumer,North,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0818,2024-07-15,Eve Wilson,Consumer,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD0819,2024-06-21,Grace Hopper,Consumer,South,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0820,2024-01-06,Jack Ryan,Corporate,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0821,2024-07-20,Diana Prince,Corporate,West,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0822,2024-05-18,Karen Page,Consumer,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Pending
+ORD0823,2024-10-23,Charlie Brown,Consumer,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0824,2024-05-29,Grace Hopper,Small Business,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0825,2024-11-11,Leo Garcia,Small Business,South,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0826,2024-09-07,Isla Fisher,Consumer,East,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0827,2024-06-23,Eve Wilson,Small Business,West,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0828,2024-09-04,Olivia Brown,Consumer,South,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Completed
+ORD0829,2024-04-03,Grace Hopper,Small Business,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0830,2024-02-17,Bob Jones,Corporate,East,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0831,2024-08-01,Maria Davis,Small Business,East,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0832,2024-04-30,Jack Ryan,Corporate,South,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0833,2024-01-18,Charlie Brown,Consumer,East,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0834,2024-12-29,Karen Page,Small Business,East,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0835,2024-11-10,Karen Page,Small Business,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Pending
+ORD0836,2024-10-18,Eve Wilson,Consumer,South,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Pending
+ORD0837,2024-06-23,Leo Garcia,Consumer,South,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0838,2024-06-28,Leo Garcia,Consumer,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Cancelled
+ORD0839,2024-10-01,Maria Davis,Corporate,North,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Cancelled
+ORD0840,2024-10-11,Diana Prince,Consumer,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Pending
+ORD0841,2024-12-21,Noah Wilson,Consumer,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0842,2024-12-21,Frank Castle,Small Business,West,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0843,2024-02-07,Frank Castle,Small Business,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0844,2024-10-14,Diana Prince,Corporate,South,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Cancelled
+ORD0845,2024-06-13,Frank Castle,Corporate,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0846,2024-10-24,Isla Fisher,Corporate,East,Smartphone X,Electronics,5,599.99,350.0,2999.95,1750.0,1249.95,Pending
+ORD0847,2024-06-07,Charlie Brown,Consumer,North,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Cancelled
+ORD0848,2024-10-14,Bob Jones,Small Business,West,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0849,2024-11-11,Henry Ford,Consumer,West,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Cancelled
+ORD0850,2024-12-06,Diana Prince,Small Business,South,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Completed
+ORD0851,2024-12-13,Alice Smith,Small Business,West,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Cancelled
+ORD0852,2024-04-15,Henry Ford,Small Business,South,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0853,2024-06-19,Karen Page,Consumer,East,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Pending
+ORD0854,2024-10-09,Alice Smith,Corporate,South,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0855,2024-06-30,Noah Wilson,Corporate,West,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0856,2024-10-24,Henry Ford,Consumer,North,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Completed
+ORD0857,2024-10-29,Eve Wilson,Corporate,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Cancelled
+ORD0858,2024-08-29,Karen Page,Small Business,North,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0859,2024-11-17,Leo Garcia,Consumer,West,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0860,2024-12-17,Isla Fisher,Corporate,West,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Pending
+ORD0861,2024-03-06,Alice Smith,Small Business,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Pending
+ORD0862,2024-06-07,Isla Fisher,Corporate,South,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0863,2024-12-05,Maria Davis,Small Business,West,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Cancelled
+ORD0864,2024-05-25,Henry Ford,Corporate,South,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0865,2024-06-21,Diana Prince,Corporate,South,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Cancelled
+ORD0866,2024-04-05,Alice Smith,Consumer,West,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Pending
+ORD0867,2024-05-30,Maria Davis,Small Business,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0868,2024-05-28,Henry Ford,Small Business,South,Wireless Keyboard,Accessories,4,49.99,25.0,199.96,100.0,99.96,Pending
+ORD0869,2024-03-27,Noah Wilson,Consumer,East,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Pending
+ORD0870,2024-11-05,Olivia Brown,Corporate,North,Laptop Pro,Electronics,1,999.99,600.0,999.99,600.0,399.99,Cancelled
+ORD0871,2024-07-24,Olivia Brown,Small Business,North,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Cancelled
+ORD0872,2024-03-23,Noah Wilson,Corporate,South,Tablet Plus,Electronics,1,449.99,280.0,449.99,280.0,169.99,Cancelled
+ORD0873,2024-05-12,Isla Fisher,Consumer,South,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0874,2024-11-20,Leo Garcia,Small Business,North,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0875,2024-12-08,Karen Page,Small Business,East,Monitor HD,Electronics,4,299.99,180.0,1199.96,720.0,479.96,Completed
+ORD0876,2024-01-16,Charlie Brown,Corporate,East,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0877,2024-04-20,Alice Smith,Consumer,South,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Cancelled
+ORD0878,2024-04-21,Charlie Brown,Consumer,East,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Pending
+ORD0879,2024-12-29,Leo Garcia,Consumer,West,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0880,2024-08-30,Frank Castle,Small Business,South,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0881,2024-02-21,Olivia Brown,Consumer,North,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Completed
+ORD0882,2024-07-18,Jack Ryan,Corporate,West,Tablet Plus,Electronics,4,449.99,280.0,1799.96,1120.0,679.96,Completed
+ORD0883,2024-03-17,Leo Garcia,Consumer,West,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0884,2024-09-24,Olivia Brown,Small Business,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0885,2024-01-11,Frank Castle,Corporate,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0886,2024-08-17,Alice Smith,Corporate,West,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0887,2024-02-21,Frank Castle,Small Business,West,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0888,2024-11-19,Isla Fisher,Corporate,South,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Pending
+ORD0889,2024-02-15,Eve Wilson,Consumer,North,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0890,2024-04-25,Frank Castle,Small Business,West,Mouse Pro,Accessories,1,29.99,12.0,29.99,12.0,17.99,Completed
+ORD0891,2024-01-11,Leo Garcia,Corporate,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Cancelled
+ORD0892,2024-01-28,Karen Page,Small Business,North,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0893,2024-12-18,Diana Prince,Corporate,South,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0894,2024-07-26,Noah Wilson,Corporate,West,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Cancelled
+ORD0895,2024-12-23,Jack Ryan,Small Business,East,Webcam HD,Accessories,1,79.99,40.0,79.99,40.0,39.99,Cancelled
+ORD0896,2024-11-15,Grace Hopper,Consumer,South,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0897,2024-06-17,Jack Ryan,Corporate,North,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0898,2024-11-03,Alice Smith,Consumer,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Cancelled
+ORD0899,2024-05-11,Karen Page,Corporate,South,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Pending
+ORD0900,2024-07-07,Charlie Brown,Consumer,West,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0901,2024-08-31,Karen Page,Small Business,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0902,2024-01-16,Charlie Brown,Small Business,East,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Completed
+ORD0903,2024-01-17,Grace Hopper,Corporate,South,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0904,2024-03-06,Leo Garcia,Corporate,West,Monitor HD,Electronics,3,299.99,180.0,899.97,540.0,359.97,Completed
+ORD0905,2024-09-11,Grace Hopper,Consumer,North,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0906,2024-08-24,Frank Castle,Corporate,West,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0907,2024-04-04,Noah Wilson,Consumer,South,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0908,2024-08-16,Leo Garcia,Corporate,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Completed
+ORD0909,2024-09-02,Eve Wilson,Small Business,North,Headphones Max,Electronics,1,149.99,80.0,149.99,80.0,69.99,Completed
+ORD0910,2024-06-28,Grace Hopper,Consumer,West,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0911,2024-07-28,Leo Garcia,Corporate,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0912,2024-04-04,Jack Ryan,Small Business,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Completed
+ORD0913,2024-04-07,Maria Davis,Corporate,South,Smartphone X,Electronics,4,599.99,350.0,2399.96,1400.0,999.96,Pending
+ORD0914,2024-01-25,Grace Hopper,Consumer,North,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0915,2024-08-11,Leo Garcia,Small Business,East,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Completed
+ORD0916,2024-05-29,Eve Wilson,Small Business,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0917,2024-11-25,Karen Page,Small Business,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Cancelled
+ORD0918,2024-09-22,Leo Garcia,Consumer,East,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0919,2024-04-20,Frank Castle,Consumer,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0920,2024-12-05,Olivia Brown,Small Business,North,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0921,2024-07-13,Isla Fisher,Corporate,North,Webcam HD,Accessories,5,79.99,40.0,399.95,200.0,199.95,Cancelled
+ORD0922,2024-10-04,Henry Ford,Consumer,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Pending
+ORD0923,2024-07-26,Noah Wilson,Consumer,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Completed
+ORD0924,2024-07-06,Jack Ryan,Corporate,West,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0925,2024-10-05,Karen Page,Corporate,East,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Cancelled
+ORD0926,2024-07-08,Maria Davis,Small Business,South,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Pending
+ORD0927,2024-11-14,Isla Fisher,Small Business,West,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
+ORD0928,2024-08-07,Alice Smith,Corporate,North,USB Hub,Accessories,4,39.99,18.0,159.96,72.0,87.96,Completed
+ORD0929,2024-01-06,Henry Ford,Small Business,South,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Cancelled
+ORD0930,2024-05-27,Frank Castle,Corporate,East,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0931,2024-10-27,Bob Jones,Small Business,East,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Pending
+ORD0932,2024-07-21,Charlie Brown,Small Business,East,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Cancelled
+ORD0933,2024-08-03,Isla Fisher,Consumer,East,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Completed
+ORD0934,2024-12-03,Leo Garcia,Small Business,West,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Pending
+ORD0935,2024-01-28,Karen Page,Consumer,South,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0936,2024-04-08,Bob Jones,Small Business,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Cancelled
+ORD0937,2024-11-05,Frank Castle,Small Business,West,Headphones Max,Electronics,4,149.99,80.0,599.96,320.0,279.96,Cancelled
+ORD0938,2024-08-01,Eve Wilson,Corporate,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Cancelled
+ORD0939,2024-03-05,Frank Castle,Small Business,East,USB Hub,Accessories,1,39.99,18.0,39.99,18.0,21.99,Completed
+ORD0940,2024-05-25,Grace Hopper,Small Business,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Cancelled
+ORD0941,2024-10-27,Leo Garcia,Corporate,West,USB Hub,Accessories,3,39.99,18.0,119.97,54.0,65.97,Completed
+ORD0942,2024-06-18,Grace Hopper,Corporate,West,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Pending
+ORD0943,2024-05-16,Eve Wilson,Consumer,North,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Cancelled
+ORD0944,2024-03-17,Alice Smith,Small Business,West,Desk Lamp,Office,5,59.99,28.0,299.95,140.0,159.95,Cancelled
+ORD0945,2024-04-01,Alice Smith,Consumer,South,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0946,2024-10-23,Frank Castle,Small Business,North,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Cancelled
+ORD0947,2024-03-15,Noah Wilson,Corporate,West,Mouse Pro,Accessories,5,29.99,12.0,149.95,60.0,89.95,Completed
+ORD0948,2024-12-20,Alice Smith,Small Business,South,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0949,2024-12-09,Maria Davis,Small Business,South,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0950,2024-05-05,Karen Page,Corporate,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0951,2024-01-25,Frank Castle,Small Business,North,Tablet Plus,Electronics,3,449.99,280.0,1349.97,840.0,509.97,Completed
+ORD0952,2024-12-01,Leo Garcia,Small Business,South,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Completed
+ORD0953,2024-02-14,Frank Castle,Consumer,South,USB Hub,Accessories,5,39.99,18.0,199.95,90.0,109.95,Completed
+ORD0954,2024-01-10,Noah Wilson,Consumer,West,Headphones Max,Electronics,2,149.99,80.0,299.98,160.0,139.98,Completed
+ORD0955,2024-11-24,Olivia Brown,Small Business,West,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0956,2024-07-27,Olivia Brown,Small Business,North,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Pending
+ORD0957,2024-10-02,Olivia Brown,Corporate,East,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0958,2024-04-18,Jack Ryan,Consumer,East,Monitor HD,Electronics,2,299.99,180.0,599.98,360.0,239.98,Completed
+ORD0959,2024-07-09,Noah Wilson,Consumer,South,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Cancelled
+ORD0960,2024-10-24,Maria Davis,Consumer,West,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Cancelled
+ORD0961,2024-03-13,Diana Prince,Small Business,South,Desk Lamp,Office,4,59.99,28.0,239.96,112.0,127.96,Pending
+ORD0962,2024-05-30,Maria Davis,Corporate,South,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0963,2024-10-13,Bob Jones,Small Business,North,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Cancelled
+ORD0964,2024-01-13,Jack Ryan,Small Business,West,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0965,2024-07-04,Charlie Brown,Corporate,East,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Pending
+ORD0966,2024-08-01,Karen Page,Small Business,South,Wireless Keyboard,Accessories,3,49.99,25.0,149.97,75.0,74.97,Completed
+ORD0967,2024-02-04,Grace Hopper,Corporate,North,Monitor HD,Electronics,1,299.99,180.0,299.99,180.0,119.99,Completed
+ORD0968,2024-01-07,Noah Wilson,Small Business,North,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0969,2024-03-12,Bob Jones,Small Business,South,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0970,2024-01-10,Bob Jones,Consumer,South,Headphones Max,Electronics,3,149.99,80.0,449.97,240.0,209.97,Completed
+ORD0971,2024-05-05,Isla Fisher,Small Business,North,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0972,2024-10-10,Charlie Brown,Small Business,South,Desk Lamp,Office,3,59.99,28.0,179.97,84.0,95.97,Cancelled
+ORD0973,2024-06-24,Eve Wilson,Corporate,West,Tablet Plus,Electronics,2,449.99,280.0,899.98,560.0,339.98,Completed
+ORD0974,2024-10-02,Frank Castle,Small Business,East,Webcam HD,Accessories,3,79.99,40.0,239.97,120.0,119.97,Completed
+ORD0975,2024-07-09,Henry Ford,Corporate,West,Laptop Pro,Electronics,5,999.99,600.0,4999.95,3000.0,1999.95,Completed
+ORD0976,2024-04-13,Grace Hopper,Small Business,North,Tablet Plus,Electronics,5,449.99,280.0,2249.95,1400.0,849.95,Completed
+ORD0977,2024-03-27,Isla Fisher,Small Business,East,Mouse Pro,Accessories,4,29.99,12.0,119.96,48.0,71.96,Completed
+ORD0978,2024-06-26,Olivia Brown,Consumer,North,Wireless Keyboard,Accessories,1,49.99,25.0,49.99,25.0,24.99,Completed
+ORD0979,2024-02-17,Charlie Brown,Small Business,South,Laptop Pro,Electronics,3,999.99,600.0,2999.97,1800.0,1199.97,Completed
+ORD0980,2024-11-12,Olivia Brown,Small Business,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Pending
+ORD0981,2024-05-30,Bob Jones,Corporate,South,Webcam HD,Accessories,4,79.99,40.0,319.96,160.0,159.96,Completed
+ORD0982,2024-09-27,Bob Jones,Small Business,West,Mouse Pro,Accessories,3,29.99,12.0,89.97,36.0,53.97,Completed
+ORD0983,2024-12-17,Maria Davis,Corporate,West,USB Hub,Accessories,2,39.99,18.0,79.98,36.0,43.98,Completed
+ORD0984,2024-03-19,Leo Garcia,Corporate,North,Laptop Pro,Electronics,2,999.99,600.0,1999.98,1200.0,799.98,Cancelled
+ORD0985,2024-07-10,Maria Davis,Consumer,South,Smartphone X,Electronics,2,599.99,350.0,1199.98,700.0,499.98,Completed
+ORD0986,2024-07-27,Eve Wilson,Corporate,North,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Cancelled
+ORD0987,2024-09-01,Frank Castle,Small Business,North,Monitor HD,Electronics,5,299.99,180.0,1499.95,900.0,599.95,Completed
+ORD0988,2024-09-29,Jack Ryan,Small Business,South,Desk Lamp,Office,1,59.99,28.0,59.99,28.0,31.99,Pending
+ORD0989,2024-12-15,Frank Castle,Consumer,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Completed
+ORD0990,2024-05-27,Charlie Brown,Consumer,North,Wireless Keyboard,Accessories,5,49.99,25.0,249.95,125.0,124.95,Completed
+ORD0991,2024-07-03,Bob Jones,Consumer,East,Wireless Keyboard,Accessories,2,49.99,25.0,99.98,50.0,49.98,Pending
+ORD0992,2024-06-05,Frank Castle,Small Business,South,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0993,2024-04-06,Alice Smith,Consumer,South,Smartphone X,Electronics,1,599.99,350.0,599.99,350.0,249.99,Completed
+ORD0994,2024-04-15,Isla Fisher,Small Business,West,Laptop Pro,Electronics,4,999.99,600.0,3999.96,2400.0,1599.96,Pending
+ORD0995,2024-03-27,Bob Jones,Corporate,West,Mouse Pro,Accessories,2,29.99,12.0,59.98,24.0,35.98,Completed
+ORD0996,2024-06-30,Maria Davis,Consumer,North,Webcam HD,Accessories,2,79.99,40.0,159.98,80.0,79.98,Completed
+ORD0997,2024-03-19,Bob Jones,Small Business,South,Headphones Max,Electronics,5,149.99,80.0,749.95,400.0,349.95,Completed
+ORD0998,2024-11-09,Diana Prince,Small Business,East,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Completed
+ORD0999,2024-07-11,Diana Prince,Corporate,North,Desk Lamp,Office,2,59.99,28.0,119.98,56.0,63.98,Pending
+ORD1000,2024-10-11,Eve Wilson,Corporate,South,Smartphone X,Electronics,3,599.99,350.0,1799.97,1050.0,749.97,Completed
